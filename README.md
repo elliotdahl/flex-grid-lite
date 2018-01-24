@@ -3,4 +3,4 @@ Lightweight column grid with the power of flexbox.
 
 Built using a functional CSS approach which means you get exactly what you ask for without any hidden surprises. The resulting file size is far smaller than a traditional column grid.
 
-[View the docs](https://github.com/elliotdahl/flex-grid-lite)
+[View the docs](http://flexgridlite.elliotdahl.com/)
